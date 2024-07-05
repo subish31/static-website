@@ -1,0 +1,60 @@
+.header{
+ padding: 5px 0px;
+ margin-top: 5px;
+ margin-bottom: 0px;
+ background-color: brown;
+ font-size: 20px;
+ color: white;
+}
+
+a{
+    padding: 10px;
+}
+
+.clg{
+    padding-top: 10px;
+    padding-bottom: 0px;
+    height: 60px;
+    width: 60px;  
+}
+ul{
+    text-align:left;
+}
+
+.logo{
+    padding-top: 0px;
+    font-size: 50px;
+    color: grey
+}
+
+#university{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+h3{
+    padding: 150px;
+    padding-bottom: 30px;
+    display: block;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.adm{
+    padding: 10px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+}
+
+
+.admision{
+    padding:10px;
+}
+
+.interest{
+    list-style: none;
+
+}
